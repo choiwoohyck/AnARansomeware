@@ -1,0 +1,9 @@
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\bin\Debug\Ransomeware.exe.config
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\bin\Debug\Ransomeware.exe
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\bin\Debug\Ransomeware.pdb
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\obj\Debug\Ransomeware.csprojResolveAssemblyReference.cache
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\obj\Debug\Ransomeware.Form1.resources
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\obj\Debug\Ransomeware.Properties.Resources.resources
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\obj\Debug\Ransomeware.csproj.GenerateResource.Cache
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\obj\Debug\Ransomeware.exe
+C:\Users\Sunrin\Desktop\Ransomeware\Ransomeware\obj\Debug\Ransomeware.pdb
